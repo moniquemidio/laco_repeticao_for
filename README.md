@@ -1,6 +1,6 @@
 # Trabalhando com laço de repetição for em C++
 
-**Neste repositório, está presente alguns exercícios feitos em aula, que envolvem o conceito de: **
+**Neste repositório, está presente alguns exercícios feitos em aula, que envolvem o conceito de:**
 
 * Variáveis;
 * Tipos de variáveis;
